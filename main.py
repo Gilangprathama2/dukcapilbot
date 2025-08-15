@@ -37,7 +37,7 @@ from telegram.ext import (
 # =========================================================
 # KONFIGURASI DASAR
 # =========================================================
-TOKEN = os.environ.get("BOT_TOKEN", "8340296681:AAGQPOEdkYsQHBmf-c51_SxUX3YzXJptlLE")
+TOKEN = os.environ.get("BOT_TOKEN", "ISI_TOKEN_BOT_SAAT_TEST_LOKAL")
 
 SIDNOK_URL = "https://sidnok.semarangkota.go.id/"
 JAM_BUKA = (
@@ -640,3 +640,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
